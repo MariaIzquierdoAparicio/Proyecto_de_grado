@@ -9,7 +9,7 @@ Este documento describe la solución, arquitectura y consideraciones clave para 
 
 [PLANTILLA_DE_INSUMOS_-COMUNICACIONES_CAOBA](PLANTILLA_DE_INSUMOS_-COMUNICACIONES_CAOBA.docx)
 
-[Documento de Grado Final](https://gitlab.com/CAOBA-Central/pruebas-concepto/puj-bogota/pruebas-concepto-g10/poc-094-puj-ia-servicio-comunidades-fase1/-/blob/develop/docs/AMOM___MFIA_-_Proyecto_de_Grado_-_Tercera_entrega.pdf)
+[Documento de Grado Final](https://github.com/MariaIzquierdoAparicio/Proyecto_de_grado/blob/main/docs/AMOM___MFIA_-_Proyecto_de_Grado_-_Tercera_entrega.pdf)
 
 
 ## Tabla de Contenidos
