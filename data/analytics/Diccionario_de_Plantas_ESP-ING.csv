@@ -1,0 +1,38 @@
+﻿Planta Inglés;Enfermedad Inglés;Planta Español;Nombre traducido por GPT;Nombre Coloquial en Colombia;Nombre Coloquial en TV
+Apple;Apple_scab;Manzana;Sarna del manzano;Costra de la manzana;Hongo
+Apple;black_rot;Manzana;Pudrición negra;Pudrición del fruto;Pudricion de la hoja
+Apple;Cedar_apple_rust;Manzana;Roya del manzano y cedro;Hongo del manzano;Hongo
+Apple;healthy;Manzana;Saludable;Saludable;Saludable
+Bean;angular_leaf_spot;Fríjol;Mancha angular de la hoja del frijol;Mancha angular;Telaraña
+Bean;healthy;Fríjol;Saludable;Saludable;Saludable
+Bean;rust;Fríjol;Óvido de frijol;Oxido de frijol;Roya
+Cassava;Cassava_Bacterial_Blight_(CBB);Yuca;Bacteriosis de la yuca;Pudrición de la yuca;Podrida
+Cassava;Cassava_Brown_Streak_Disease_(CBSD);Yuca;Estría marrón de la yuca;Venas marrones de la yuca;Exceso de humedad
+Cassava;Cassava_Green_Mottle_(CGM);Yuca;Moteado verde de la yuca;Manchas verdes en la yuca;Manchas
+Cassava;Cassava_Mosaic_Disease_(CMD);Yuca;Enfermedad del mosaico de la yuca;Manchas amarillas en la yuca;Exceso de humedad
+Cassava;healthy;Yuca;Saludable;Saludable;Saludable
+Cauliflower;bacterial_spot_rot;Coliflor;Pústula bacteriana;Podredumbre blanda;Pudrición
+Cauliflower;black_rot;Coliflor;Podredumbre negra de la coliflor;Podredumbre negra;Mancha Negra
+Cauliflower;downy_mildew;Coliflor;Mildiú velloso de la coliflor;Moho azu;Moho
+Cauliflower;healthy;Coliflor;Saludable;Saludable;Saludable
+Corn;Cercospora_leaf_spot Gray_leaf_spot;Maíz;Mancha gris;Pinta gris;Pudrición
+Corn;Common_rust;Maíz;Roya común;Moho rojo del maíz;Moho rojo
+Corn;healthy;Maíz;Saludable;Saludable;Saludable
+Corn;Northern_Leaf_Blight;Maíz;Tizón norteño;Quemazón del maíz;Marchitamiento
+Cucumber;diseased;Pepino Cohombro;Enferma;Enferma;Sin Información
+Cucumber;healthy;Pepino Cohombro;Saludable;Saludable;Saludable
+Potato;Early_blight;Papa;Tizón temprano;Quemado de la papa;Hongo
+Potato;healthy;Papa;Saludable;Saludable;Saludable
+Potato;Late_blight;Papa;Tizón tardío;Pudrición de la papa;Quemada
+Strawberry;healthy;Fresa;Saludable;Saludable;Saludable
+Strawberry;Leaf_scorch;Fresa;Quemadura foliar;Hojas quemadas de la fresa;Hongo
+Tomato;Bacterial_spot;Tomate;Mancha bacteriana;Puntos negros del tomate;Deshidratación
+Tomato;Early_blight;Tomate;Tizón temprano;Manchas marrones del tomate;Tizón temprano
+Tomato;healthy;Tomate;Saludable;Saludable;Saludable
+Tomato;Late_blight;Tomate;Tizón tardío;Pudrición del tomate;Pudrición
+Tomato;Leaf_Mold;Tomate;Moho de la hoja;Hongo blanco del tomate;Hoja quemada
+Tomato;Septoria_leaf_spot;Tomate;Mancha de Septoria;Puntitos marrones en las hojas;Quemada
+Tomato;Spider_mites Two-spotted_spider_mite;Tomate;Ácaros / Arañita roja;Polvillo rojo;Deshidratada
+Tomato;Target_Spot;Tomate;Mancha diana;Pinta en ojo de buey;Mordida
+Tomato;Tomato_mosaic_virus;Tomate;Virus del mosaico del tomate;Moteado del tomate;Mordida
+Tomato;Tomato_Yellow_Leaf_Curl_Virus;Tomate;Virus del rizado amarillo;Hojas enrolladas del tomate;Le falta agua
